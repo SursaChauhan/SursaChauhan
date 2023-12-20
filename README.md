@@ -10,7 +10,6 @@ I am a passionate and results-driven Full Stack Developer with expertise in HTML
 - **State Management:** Redux
 - **Backend:** Node.js
 - **Database:** MongoDB
-- **Other Technologies:** [List any other technologies or frameworks you're proficient in]
 
 ## 🌱 What I'm Currently Learning
 
@@ -36,7 +35,7 @@ Build clone of Myntra.com in 7 days with a team of 5 members. Our project has fe
 
 ## 📫 Let's Connect
 
-- GitHub: https://github.com/SursaChauhan(Link to GitHub)
+- GitHub: https://github.com/SursaChauhan (Link to GitHub)
 - LinkedIn: https://www.linkedin.com/in/surendra-schauhan/ (Link to LinkedIn)
 
 Feel free to explore my projects and connect with me. I'm always open to collaboration and new opportunities!
