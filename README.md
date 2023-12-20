@@ -30,7 +30,7 @@ I believe in the power of continuous learning, and currently, I'm focused on mas
 ![Project 1](https://github.com/SursaChauhan/Online-Auto-Part-shop/assets/142526317/1896cf25-2981-4fa4-af39-986fe4eb2e5b)
 Online Auto Parts shop website offers a variety of automotive parts exterior and interior parts as well, one stop destination to buy any automotive parts.
 
-### [Myntra-Clone](gilded-vacherin-2e78d2.netlify.app/)
+### [Myntra-Clone] (https://gilded-vacherin-2e78d2.netlify.app/)
 ![Project 2](https://github.com/arjundangi01/Myntra-Clone/assets/135942012/95ca274f-18dc-4f1d-a7ab-6d03cc5024d7)
 Build clone of Myntra.com in 7 days with a team of 5 members. Our project has features like Login, Signup, Product Page, Cart Page, Wishlist Page, Payment Page
 
@@ -41,4 +41,4 @@ Build clone of Myntra.com in 7 days with a team of 5 members. Our project has fe
 
 Feel free to explore my projects and connect with me. I'm always open to collaboration and new opportunities!
 
-Happy Coding! 🚀
+Thanks For Visit! 🚀
