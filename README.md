@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Surendra Singh!
+<!-- Header Section -->
+# <img src="https://user-images.githubusercontent.com/YourGitHubID/YourImageFolder/your-logo.png" alt="Surendra Singh" width="50"/> Hello, I'm Surendra Singh!
 
 ## 🚀 About Me
 
@@ -15,14 +16,16 @@ I am a passionate and results-driven Full Stack Developer with expertise in HTML
 
 I believe in the power of continuous learning, and currently, I'm focused on mastering React.js and Redux to enhance my skill set and tackle new challenges.
 
-## 📊 GitHub Stats
+<!-- GitHub Stats and Contribution Calendar Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SursaChauhan&show_icons=true&count_private=true&hide=contribs,prs&theme=radical" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SursaChauhan&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SursaChauhan&theme=radical" alt="Contribution Calendar" />
+</p>
 
-## 📅 Contribution Calendar
-
-![Contribution Calendar](https://github-readme-streak-stats.herokuapp.com/?user=SursaChauhan&theme=radical)
-
+<!-- My Projects Section -->
 ## 🔧 My Projects
 
 ### [Online-Auto-Part-shop](https://sursachauhan.github.io/Online-Auto-Part-shop/)
@@ -35,11 +38,15 @@ Online Auto Parts shop website offers a variety of automotive parts exterior and
 
 Build clone of Myntra.com in 7 days with a team of 5 members. Our project has features like Login, Signup, Product Page, Cart Page, Wishlist Page, Payment Page
 
+<!-- Let's Connect Section -->
 ## 📫 Let's Connect
 
-- GitHub: https://github.com/SursaChauhan (Link to GitHub)
-- LinkedIn: https://www.linkedin.com/in/surendra-schauhan/ (Link to LinkedIn)
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-SursaChauhan-181717?style=flat&logo=github&logoColor=white)](https://github.com/SursaChauhan)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Surendra_Schauhan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendra-schauhan/)
 
 Feel free to explore my projects and connect with me. I'm always open to collaboration and new opportunities!
 
 Thanks For Visit! 🚀
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=SursaChauhan&color=brightgreen)
