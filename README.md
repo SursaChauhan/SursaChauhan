@@ -6,7 +6,7 @@
    <p style="font-family: 'Roboto', sans-serif;">
     I am a passionate and results-driven Full Stack Developer with expertise in HTML, CSS, JavaScript, Node.js, React.js, and more. I thrive on turning ideas into high-quality, scalable software solutions. My commitment to code craftsmanship and continuous learning ensures that I stay ahead in the dynamic world of web development.
   </p>
-  <img src="./Images/prgrammer.gif" alt="Your Image" width="100" height="250" style="border-radius: 50%; margin: 10px;">
+  <img src="../Images/prgrammer.gif" alt="Your Image" width="100" height="250" style="border-radius: 50%; margin: 10px;">
 </div>
 
 
