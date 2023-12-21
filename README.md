@@ -34,3 +34,7 @@ I am a passionate and results-driven Full Stack Developer with expertise in HTML
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sursachauhan" alt="sursachauhan" /></a> </p>
+
+Feel free to explore my projects and connect with me. I'm always open to collaboration and new opportunities!
+
+Thanks For Visit! 🚀
