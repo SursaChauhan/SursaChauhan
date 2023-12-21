@@ -2,9 +2,8 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 ## 🚀 About Me
-
-I am a passionate and results-driven Full Stack Developer with expertise in HTML, CSS, JavaScript, Node.js, React.js, and more. I thrive on turning ideas into high-quality, scalable software solutions. My commitment to code craftsmanship and continuous learning ensures that I stay ahead in the dynamic world of web development.
 ![Profile Image](Images/prgrammer.gif)
+I am a passionate and results-driven Full Stack Developer with expertise in HTML, CSS, JavaScript, Node.js, React.js, and more. I thrive on turning ideas into high-quality, scalable software solutions. My commitment to code craftsmanship and continuous learning ensures that I stay ahead in the dynamic world of web development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sursachauhan&label=Profile%20views&color=0e75b6&style=flat" alt="sursachauhan" /> </p>
 
