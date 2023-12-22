@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![prgrammer](https://github.com/SursaChauhan/Bed-bath-and-beyond/assets/132122228/833a13b5-6e76-4d73-90bf-35e8e0e8b62f)  <h4 >I am a passionate and results-driven Full Stack Developer with expertise in HTML, CSS, JavaScript, Node.js, React.js, and more. I thrive on turning ideas into high-quality, scalable software solutions. My commitment to code craftsmanship and continuous learning ensures that I stay ahead in the dynamic world of web development.</h4>
+# <img src="https://github.com/SursaChauhan/Bed-bath-and-beyond/assets/132122228/833a13b5-6e76-4d73-90bf-35e8e0e8b62f" alt="Surendra Singh" width="250" align="center"/><h4 >I am a passionate and results-driven Full Stack Developer with expertise in HTML, CSS, JavaScript, Node.js, React.js, and more. I thrive on turning ideas into high-quality, scalable software solutions. My commitment to code craftsmanship and continuous learning ensures that I stay ahead in the dynamic world of web development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sursachauhan&label=Profile%20views&color=0e75b6&style=flat" alt="sursachauhan" /> </p>
 
