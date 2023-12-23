@@ -24,7 +24,7 @@
 
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-SursaChauhan-181717?style=flat&logo=github&logoColor=white)](https://github.com/SursaChauhan)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Surendra_Schauhan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendra-schauhan/)
-- [![Portfolio](https://your-image-url.png)](https://SursaChauhan.github.io)
+- PortFolio: [![Portfolio](https://img.shields.io/badge/Portfolio-SursaChauhan.github.io-9cf?style=flat&logo=github&logoColor=white)](https://SursaChauhan.github.io)
 
 
 
