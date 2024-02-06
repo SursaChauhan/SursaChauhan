@@ -28,7 +28,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stacks:</h3>
 <p align="left">
   
   ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -36,6 +36,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
+<img src="https://github.com/SursaChauhan/E-Shop/assets/132122228/98e33de7-b92a-41ab-b378-7d14710c29ae" alt="react" width="75" height="27">
+<img src="https://github.com/SursaChauhan/E-Shop/assets/132122228/69d62e14-dae7-4b47-8c04-fbf53864d30e" alt="1200px-Node js_logo svg" width="75" height="27">
+<img src="https://github.com/SursaChauhan/E-Shop/assets/132122228/eec9377c-ec15-4abd-bb74-3d2788150a63" alt="expressja" width="75" height="27">
+<img src="https://github.com/SursaChauhan/E-Shop/assets/132122228/6454e64b-4287-4f1e-8fa3-23c977949c68" alt="MongoDB_Logo svg" width="75" height="27">
+
+
  </p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sursachauhan&show_icons=true&locale=en&layout=compact" alt="sursachauhan" /></p>
