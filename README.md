@@ -1,58 +1,111 @@
-# <img src="https://github.com/SursaChauhan/Bed-bath-and-beyond/assets/132122228/c643a26c-caf9-427b-9093-67b4ebdc714c" alt="Surendra Singh" width="150" align="center"/> Hi 👋, I'm Surendra Singh
+<!-- Banner -->
+<img width="100%" src="https://raw.githubusercontent.com/SursaChauhan/CDN/main/banners/backend-engineer-banner.gif" />
 
-## 🚀 About Me
+<h1 align="center">👋 Hi, I'm <strong>Surendra Singh</strong></h1>
+<h3 align="center">Backend Software Engineer | Node.js | Distributed Systems | Scalable Architecture</h3>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+---
 
-# <p align="left"> <img src="https://github.com/SursaChauhan/Bed-bath-and-beyond/assets/132122228/833a13b5-6e76-4d73-90bf-35e8e0e8b62f" alt="Surendra Singh" width="300" align="left" /><h4 align="right">I am a passionate and results-driven Full Stack Developer with expertise in HTML, CSS, JavaScript, Node.js, React.js, and more. I thrive on turning ideas into high-quality, scalable software solutions. My commitment to code craftsmanship and continuous learning ensures that I stay ahead in the dynamic world of web development.</h4></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SursaChauhan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
+---
 
-# <p align="left"> <img src="https://komarev.com/ghpvc/?username=sursachauhan&label=Profile%20views&color=0e75b6&style=flat" alt="sursachauhan" /> </p>
+## 🧠 **About Me**
 
-#
-- 🔭 I’m currently working on **deep concept of frontend devolpment**
+I'm a **Backend Software Engineer** focused on building robust, scalable, and high-performance backend systems.  
+I work extensively with **Node.js, Express.js, MongoDB, Redis, PostgreSQL**, and event-driven architectures.
 
-- 🌱 I’m currently learning **React.js**
+I specialize in:
 
-- 🤝 I’m looking for help with **open source collaborative project**
+- ⚙️ Scalable backend architecture  
+- 🔄 Event-driven systems  
+- 📦 B2B order workflows & inventory systems  
+- 🚀 High-performance APIs & caching  
+- 🧪 Unit testing with Jest & Supertest  
 
-- 💬 Ask me about **react ,redux ,vanilla js**
+My approach is simple:  
+👉 **Clean architecture, reliable systems, production-ready code.**
 
-- 📫 How to reach me **ss0622187@gmail.com**
+---
 
-## 📫 Let's Connect
+## ⚡ **What I'm Working On**
+- Building **SkillGap AI + Smart JobMatch Engine**  
+- Strengthening **system design & distributed workflows**  
+- Adding **TypeScript**, **Docker**, and **GitHub Actions** to my toolkit  
+- Practicing **microservices architecture**  
 
-- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-SursaChauhan-181717?style=flat&logo=github&logoColor=white)](https://github.com/SursaChauhan)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Surendra_Schauhan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendra-schauhan/)
-- PortFolio: [![Portfolio](https://img.shields.io/badge/Portfolio-SursaChauhan.github.io-9cf?style=flat&logo=github&logoColor=white)](https://SursaChauhan.github.io)
+---
 
+# 🛠 **Tech Stack**
 
-
-<h3 align="left">Tech Stacks:</h3>
+### **Backend**
 <p align="left">
-  
-  ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
-<img src="https://github.com/SursaChauhan/E-Shop/assets/132122228/98e33de7-b92a-41ab-b378-7d14710c29ae" alt="react" width="75" height="27">
-<img src="https://github.com/SursaChauhan/E-Shop/assets/132122228/69d62e14-dae7-4b47-8c04-fbf53864d30e" alt="1200px-Node js_logo svg" width="75" height="27">
-<img src="https://github.com/SursaChauhan/E-Shop/assets/132122228/eec9377c-ec15-4abd-bb74-3d2788150a63" alt="expressja" width="75" height="27">
-<img src="https://github.com/SursaChauhan/E-Shop/assets/132122228/6454e64b-4287-4f1e-8fa3-23c977949c68" alt="MongoDB_Logo svg" width="75" height="27">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
+### **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongo,postgres,redis" />
+</p>
 
- </p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sursachauhan&show_icons=true&locale=en&layout=compact" alt="sursachauhan" /></p>
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SursaChauhan&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+### **Testing**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
 
-![Contribution Calendar](https://github-readme-streak-stats.herokuapp.com/?user=SursaChauhan&theme=radical)
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sursachauhan" alt="sursachauhan" /></a> </p>
+# 🚀 **Highlighted Projects**
 
-Feel free to explore my projects and connect with me. I'm always open to collaboration and new opportunities!
+### 🔹 **SkillGap AI + Smart JobMatch** *(In Progress)*
+AI-driven system for personalized job matching, skill analysis & real-time upskilling suggestions.
 
-Thanks For Visit! 🚀
+### 🔹 **Forward Order Automation System**
+Automates B2B sales order creation with store-priority rules, inventory checks & event-driven workflows.
+
+### 🔹 **Inventory Sync Engine**
+Real-time stock synchronization across channels using Redis caching & distributed events.
+
+---
+
+# 📊 **GitHub Stats**
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SursaChauhan&show_icons=true&theme=radical&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SursaChauhan&layout=compact&theme=radical&hide_border=true" />
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=SursaChauhan&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+# 🌍 **Connect With Me**
+
+<p align="left">
+  <a href="https://github.com/SursaChauhan"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://www.linkedin.com/in/surendra-schauhan"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:ss0622187@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+</p>
+
+---
+
+# 🙌 **Thanks for Visiting!**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SursaChauhan/CDN/main/banners/thanks-for-visiting.gif" width="60%">
+</p>
+
+---
